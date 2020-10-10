@@ -1,0 +1,28 @@
+{
+  "name": "ejerciciosjs",
+  "version": "1.0.0",
+  "description": "tareas ejercicios de practica de javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elepi/tareaJavascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "handlebars",
+    "node"
+  ],
+  "author": "Karen Pineda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elepi/tareaJavascript/issues"
+  },
+  "homepage": "https://github.com/Elepi/tareaJavascript#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
